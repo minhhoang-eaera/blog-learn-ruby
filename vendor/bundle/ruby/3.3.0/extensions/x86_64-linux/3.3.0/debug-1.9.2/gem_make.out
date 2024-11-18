@@ -1,0 +1,19 @@
+current directory: /home/minheaera/my-project/blog-project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/minheaera/.rbenv/versions/3.3.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/minheaera/my-project/blog-project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241115-20589-4ggtbe sitelibdir\=./.gem.20241115-20589-4ggtbe clean
+
+current directory: /home/minheaera/my-project/blog-project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241115-20589-4ggtbe sitelibdir\=./.gem.20241115-20589-4ggtbe
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/minheaera/my-project/blog-project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241115-20589-4ggtbe sitelibdir\=./.gem.20241115-20589-4ggtbe install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20241115-20589-4ggtbe/debug
+
+current directory: /home/minheaera/my-project/blog-project/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241115-20589-4ggtbe sitelibdir\=./.gem.20241115-20589-4ggtbe clean
